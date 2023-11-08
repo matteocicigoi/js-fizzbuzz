@@ -19,3 +19,5 @@
     - aggiunge il div text al div box
     - aggiunge la classe box al div box
     - aggiunge il box al div container
+
+![](img/anteprima.png)
